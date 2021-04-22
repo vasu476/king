@@ -1,0 +1,8 @@
+1. env command – Display all exported environment 
+or run a program in a modified
+
+2. sudo usermod -a -G sudo(group)  linuxize(user) 
+3. extrat gunzip archive.gz
+4.git clone --branch <branchname> url ( specific branch )
+5.git config --global credential.helper store ( save logins )
+6.
